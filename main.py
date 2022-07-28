@@ -1,5 +1,4 @@
 import json
-from msilib.schema import File
 from tkinter import *
 import random
 from tkinter import messagebox
